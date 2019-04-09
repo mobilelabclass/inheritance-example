@@ -3,7 +3,7 @@
 //  InheritanceExample
 //
 //  Created by Nien Lam on 4/9/19.
-//  Copyright © 2019 Line Break, LLC. All rights reserved.
+//  Copyright © 2018 Mobile Lab. All rights reserved.
 //
 
 import UIKit
